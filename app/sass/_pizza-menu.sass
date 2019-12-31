@@ -8,7 +8,8 @@ body,
   max-width: 900px
   margin: 0 auto
   &__btn
-    padding-bottom: 60px
+    padding-top: 20px
+    padding-bottom: 70px
     text-align: center
 
 .head-block
@@ -25,7 +26,7 @@ body,
     font-family: "Vollkorn-Regular"
 
 .menu-block
-  padding-bottom: 60px
+  padding-bottom: 20px
   text-align: center
   &__title
     text-align: center
@@ -97,6 +98,13 @@ body,
   padding: 20px 50px 
   color: #151824
   background-color: $accent-color
+  display: inline-block
 .link-btn:hover
   color: #000
   text-decoration: none
+
+
++media-breakpoint-down($md)
+  .menu-block__content
+    column-count: 1
+  .menu-block__item:last-child
