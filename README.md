@@ -1,8 +1,14 @@
-# OptimizedSassTemplate
+# HTML TEMPLATE InstructorLive for WordPress theme template
+
+## Demo page:
+
+[Pizza Menu](https://oshchenkov.github.io/Pizza_menu_page/)
+
+## OptimizedSassTemplate
 
 [Optimized SASS template](https://github.com/Oshchenkov/OptimizedSassTemplate) with gulp. Ready for gitHub /doc demo show.
 
-## For installing you need:
+### For installing you need:
 
 Run in terminal(need to have installed npm)
 
