@@ -1,4 +1,4 @@
-# HTML TEMPLATE InstructorLive for WordPress theme template
+# Html page for WordPress template
 
 ## Demo page:
 
